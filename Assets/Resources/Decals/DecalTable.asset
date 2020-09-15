@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 509404aa930466c4e8a3ea760fa1848d, type: 3}
+  m_Name: DecalTable
+  m_EditorClassIdentifier: 
+  decalInfoList:
+  - {fileID: 11400000, guid: a2067569e24c511448fac2100ddc5e3f, type: 2}
+  - {fileID: 11400000, guid: 84db8ffc275c41843aba6580ddffa889, type: 2}
+  - {fileID: 11400000, guid: 4c685c6088eb8e1498ea84170718ddf8, type: 2}
+  - {fileID: 11400000, guid: 0dd0c4abc6eb8904b8324fc0dc9619d2, type: 2}

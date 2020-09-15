@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8c55bf31c34b924b98e8c40b7ca37c6, type: 3}
+  m_Name: Triangle
+  m_EditorClassIdentifier: 
+  name: 
+  buttonTexture: {fileID: 2800000, guid: 106a35d0df3817441896e09a8bf3ca39, type: 3}
+  prefab: {fileID: 3175223439363518206, guid: 8263632de2b4d37429fa96ab7d075bbd, type: 3}

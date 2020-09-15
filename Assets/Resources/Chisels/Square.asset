@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8c55bf31c34b924b98e8c40b7ca37c6, type: 3}
+  m_Name: Square
+  m_EditorClassIdentifier: 
+  name: 
+  buttonTexture: {fileID: 2800000, guid: b754aa076c2b67643b9f806bd33e7169, type: 3}
+  prefab: {fileID: 6697524006940294547, guid: 39c8f1bddf699784daa5c4e3b5d2bf84, type: 3}

@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6436985852443350127
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6436985852443350114}
+  - component: {fileID: 6436985852443350112}
+  m_Layer: 0
+  m_Name: PathEditor
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6436985852443350114
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6436985852443350127}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6436985852443350112
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6436985852443350127}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d65fb68019505ef4a8fec1a12198a050, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  path:
+    controlPoints:
+    - position: {x: -3.9440598, y: 0.02865982, z: 0}
+      controlA: {x: -0.19191878, y: 3.740184, z: -0}
+      controlB: {x: 0.051244736, y: -0.9986763, z: 0}
+      controlConstraintBreak: 0
+      fixedControlA: 0
+      fixedControlB: 0
+    - position: {x: 0.56841564, y: 4.8099585, z: 0}
+      controlA: {x: 1.1728772, y: -6.415718, z: -0}
+      controlB: {x: -0.5841484, y: 3.1953316, z: 0}
+      controlConstraintBreak: 0
+      fixedControlA: 0
+      fixedControlB: 0
+    - position: {x: 2.9503136, y: 7.3979044, z: 0}
+      controlA: {x: -1.0840808, y: 2.1055946, z: -0}
+      controlB: {x: 3.5101004, y: -6.8176174, z: 0}
+      controlConstraintBreak: 0
+      fixedControlA: 1
+      fixedControlB: 1
+    - position: {x: 9.448405, y: 9.199109, z: 0}
+      controlA: {x: -0.5430211, y: -2.7258303, z: -0}
+      controlB: {x: 0.40908623, y: 2.0535107, z: 0}
+      controlConstraintBreak: 0
+      fixedControlA: 0
+      fixedControlB: 1
+    - position: {x: 12.455113, y: 1.5655088, z: 0}
+      controlA: {x: 0.6378862, y: 2.0109756, z: -0}
+      controlB: {x: -0.7055092, y: -2.2241611, z: 0}
+      controlConstraintBreak: 0
+      fixedControlA: 0
+      fixedControlB: 0
+    closed: 0
+  segment: 22
